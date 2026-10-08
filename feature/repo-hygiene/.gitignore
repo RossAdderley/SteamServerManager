@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# SteamCMD binaries and server files (downloaded, not source)
+steamcmd/
+*.log
+
+# Local editor and OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
