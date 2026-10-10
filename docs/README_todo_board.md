@@ -48,7 +48,7 @@ Week 1 — GitHub (no production Python)
 
 [ ] B Day 3 — README todo PR. This checklist is on main. Owner: Developer B. Branch docs/readme-todos.
 
-[ ] A Day 4 — Branch protection. Require a PR and 1 approval on main; no force-push. If the plan cannot enforce it, document the manual rule in CONTRIBUTING.md. Owner: Developer A.
+[x] A Day 4 — Branch protection. Require a PR and 1 approval on main; no force-push. If the plan cannot enforce it, document the manual rule in CONTRIBUTING.md. Owner: Developer A.
 
 [ ] B Day 4 — End-to-end practice PR. One-line README status change, changes requested once, then approval and merge. Owner: Developer B.
 
