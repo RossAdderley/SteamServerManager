@@ -36,19 +36,19 @@ Copy a row into a new issue. Check the box on main only after that issue is clos
 
 Week 1 — GitHub (no production Python)
 
-[ ] A+B Day 1 — Account and clone. Both enable 2FA, both clone this repo, both can show git log. Owner: joint. Acceptance: usernames filled in the roles table via PR.
+[x] A+B Day 1 — Account and clone. Both enable 2FA, both clone this repo, both can show git log. Owner: joint. Acceptance: usernames filled in the roles table via PR.
 
-[ ] A Day 2 — Python gitignore. Branch feature/repo-hygiene. Ignore __pycache__/, *.pyc, .venv/, steamcmd/, *.log. Owner: Developer A.
+[x] A Day 2 — Python gitignore. Branch feature/repo-hygiene. Ignore __pycache__/, *.pyc, .venv/, steamcmd/, *.log. Owner: Developer A.
 
 [ ] B Day 2 — Contributing and security stubs. Branch docs/contributing. CONTRIBUTING.md states the PR rule. SECURITY.md stub exists. Owner: Developer B.
 
-[ ] A+B Day 2 — License choice. Issue records MIT or Apache-2.0 and adds LICENSE. Owner: whoever does not open the docs PR.
+[x] A+B Day 2 — License choice. Issue records MIT or Apache-2.0 and adds LICENSE. Owner: whoever does not open the docs PR.
 
-[ ] A Day 3 — Labels and milestones. Labels dev-a, dev-b, github, python, bug, docs. Milestones Week 1 — GitHub and Week 2 — Python. Owner: Developer A.
+[x] A Day 3 — Labels and milestones. Labels dev-a, dev-b, github, python, bug, docs. Milestones Week 1 — GitHub and Week 2 — Python. Owner: Developer A.
 
 [ ] B Day 3 — README todo PR. This checklist is on main. Owner: Developer B. Branch docs/readme-todos.
 
-[ ] A Day 4 — Branch protection. Require a PR and 1 approval on main; no force-push. If the plan cannot enforce it, document the manual rule in CONTRIBUTING.md. Owner: Developer A.
+[x] A Day 4 — Branch protection. Require a PR and 1 approval on main; no force-push. If the plan cannot enforce it, document the manual rule in CONTRIBUTING.md. Owner: Developer A.
 
 [ ] B Day 4 — End-to-end practice PR. One-line README status change, changes requested once, then approval and merge. Owner: Developer B.
 
